@@ -1,0 +1,47 @@
+_repo: The-Old-Flute-PlayerA-Romance-of-To-day_17841
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Rowe, Clarence H. (Clarence Herbert)
+    birthdate: 1878
+    deathdate: 1930
+    gutenberg_agent_id: '8113'
+    url: http://www.gutenberg.org/2009/agents/8113
+  - agent_name: Hare, J. Knowles
+    gutenberg_agent_id: '7638'
+    url: http://www.gutenberg.org/2009/agents/7638
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Dazey, Charles Turner
+    alias: Dazey, Charles T. (Charles Turner)
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '5294'
+    url: http://www.gutenberg.org/2009/agents/5294
+  - agent_name: Marshall, Edward
+    birthdate: 1870
+    deathdate: 1933
+    gutenberg_agent_id: '5293'
+    url: http://www.gutenberg.org/2009/agents/5293
+description: ''
+gutenberg_issued: '2006-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17841'
+  lccn: '10022795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcsh 'Immigrants -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PS'
+title: 'The Old Flute-Player
+
+  A Romance of To-day'
+url: http://www.gutenberg.org/ebooks/17841
